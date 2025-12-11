@@ -1,5 +1,5 @@
 # -------------------------
-# Exercise 6: Cleanup task
+# Cleanup task
 # -------------------------
 apiVersion: tekton.dev/v1beta1
 kind: Task
@@ -30,7 +30,7 @@ spec:
         fi
 
 # -------------------------
-# Exercise 7: Nose test task
+# Nose test task
 # -------------------------
 apiVersion: tekton.dev/v1beta1
 kind: Task
